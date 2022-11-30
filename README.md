@@ -1,1 +1,1 @@
-# NumericalAnalysis-Course
+# Numerical-Analysis-Course
